@@ -1,0 +1,41 @@
+body{
+	background:src="E:\Html\main_background.jpg";
+}
+.zagakovok{
+position: absolute;
+top: 1%;
+color: #FFFFFF;
+font-size: 80px;
+padding-left: 45%;
+width: 0%;
+}
+.text1{
+position: absolute;
+top: 23%;
+color: #FFFFFF;
+font-size: 80px;
+padding-left: 44%;
+width: 0%;
+}
+.text2{
+position: absolute;
+top: 26%;
+color: #FFFFFF;
+font-size: 60px;
+padding-left: 44%;
+width: 0%;
+}
+.knopki{
+text-decoration: none;
+font-size: 100%;
+user-select: none;
+color: #F3DF3F;
+text-align: center;
+}
+.AnimatedKnopki{
+text-decoration: none;
+font-size: 100%;
+user-select: none;
+color: #F3DF3F;
+text-align: center;
+}
